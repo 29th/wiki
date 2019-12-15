@@ -1,6 +1,6 @@
 ---
 title: Main Page
-permalink: /Main_Page
+permalink: /
 layout: page
 author: JHill
 date: 2017-05-10T03:41:52Z
