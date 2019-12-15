@@ -1,5 +1,5 @@
 title: 29th Infantry Division Wiki
-baseurl: wiki
-theme: minima
+baseurl: wiki/
+theme: jekyll/minima
 header_pages:
   - pages/index.md
