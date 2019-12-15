@@ -23,16 +23,12 @@ The guide to your life in the 29th ID.
 
 </div>
 
-<div style="top:+0.2em; font-size:95%;">
+</div>
+
+</div>
 
 If you notice any errors or would like to contribute contact the
 [Engineer Corps](http://personnel.29th.org/#units/Eng).
-
-</div>
-
-</div>
-
-</div>
 
 ## Quick Links
 
@@ -45,8 +41,12 @@ If you notice any errors or would like to contribute contact the
 **Required Reading**
 
 This will answer common questions of newly graduated members and help
-prevent them from making common mistakes. <DPL> category = FM 21-100
-columns = 2 </DPL>
+prevent them from making common mistakes. 
+
+{% assign fm21_100 = site.pages | where: "category", "FM 21-100" %}
+{% for page in fm21_100 %}
+  - [{{ page.title }}]({{ page.url }})
+{% endfor %}
 
 ## Policy Handbook
 
@@ -54,8 +54,12 @@ columns = 2 </DPL>
 
 All members are required to read and abide by this handbook. Its
 contents are very short and concise, so it should not take long to know
-and understand the policies you are expected to follow. <DPL> category =
-Policy columns = 2 </DPL>
+and understand the policies you are expected to follow. 
+
+{% assign policy = site.pages | where: "category", "Policy" %}
+{% for page in policy %}
+  - [{{ page.title }}]({{ page.url }})
+{% endfor %}
 
 ## Game Specific Wikis
 
