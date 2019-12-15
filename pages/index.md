@@ -12,8 +12,7 @@ category:
 
 <div style="font-family: Algerian; font-size:300%; margin:0; padding:.1em; color:#111;">
 
-Welcome to the <font color=blue>2</font><font color=dimGrey>9</font>th
-Infantry Division Wiki.
+Welcome to the 29th Infantry Division Wiki.
 
 </div>
 
