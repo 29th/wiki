@@ -47,7 +47,7 @@ starts on midnight of the start date and ends at 23:59 on the end date.
 You will see a notification at the top-right of the forums that looks
 like this:
 
-![weapons-pass.jpg](weapons-pass.jpg "weapons-pass.jpg")
+![weapons-pass.jpg](images/weapons-pass.jpg "weapons-pass.jpg")
 
 ### What if my recruit didn't put my name down as his recruiter?
 

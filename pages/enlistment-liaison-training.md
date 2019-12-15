@@ -70,7 +70,7 @@ Before we can accept an enlistment, we need to review it. Here's an
 example of an enlistment. After this part, you will be taught how the
 enlistment processing and personnel system works.
 
-![ExampleEnlistment.jpg](ExampleEnlistment.jpg "ExampleEnlistment.jpg")
+![ExampleEnlistment.jpg](images/ExampleEnlistment.jpg "ExampleEnlistment.jpg")
 
 You see all the information you need about the recruit. Here are the
 steps to do when you check an enlistment:
@@ -180,7 +180,7 @@ You might need to modify it for one or more of the following reasons:
 After the edits, you can move on to Process Enlistment, which can be
 found under Admin at the top right corner of the enlistment.
 
-![ProcessEnlistment.jpg](ProcessEnlistment.jpg "ProcessEnlistment.jpg")
+![ProcessEnlistment.jpg](images/ProcessEnlistment.jpg "ProcessEnlistment.jpg")
 
 From Process Enlistment, you can:
 
@@ -197,7 +197,7 @@ with honorably discharged members re-enlisting.*
 
 *The FIRST* thing you should look at is an enlistees *AGE*.
 
-![DenyingAge.png](DenyingAge.png "DenyingAge.png")
+![DenyingAge.png](images/DenyingAge.png "DenyingAge.png")
 
 Age, as highlighted above, **should say 15 or above**. If it is below
 15, go to **Admin \> Process Enlistment \> Select TP (the one it would
@@ -302,7 +302,7 @@ recruits, honorably discharged members or generally discharged members.
 
 #### Washout recruits
 
-![Washoutrecruit.jpg](Washoutrecruit.jpg "Washoutrecruit.jpg")
+![Washoutrecruit.jpg](images/Washoutrecruit.jpg "Washoutrecruit.jpg")
 
 The Rec. rank means that this member is a washout recruit. Set
 enlistment pending for the next available Training Platoon \> Reply with
@@ -338,7 +338,7 @@ within seven days, you can kindly remind him.
 
 #### Honorably Discharged members
 
-![HDexample.jpg](HDexample.jpg "HDexample.jpg")
+![HDexample.jpg](images/HDexample.jpg "HDexample.jpg")
 
 In case of honorably discharged members, do not assign re-enlistment
 into a Training Platoon. Just reply with:
@@ -389,7 +389,7 @@ to look at the soldier's Personnel File.
 
 #### Generally/Dishonorably Discharged Members
 
-![GDexample.jpg](GDexample.jpg "GDexample.jpg")
+![GDexample.jpg](images/GDexample.jpg "GDexample.jpg")
 
 In case of GD or DD re-enlistments, regardless of the rank, all these
 enlistments goes for **Cpt. Walker** to approve (remember to include

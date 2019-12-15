@@ -43,7 +43,7 @@ screenshot example of a properly filled out event for BP1. Note that
 while BP1 drills take place on Mondays at 9pm EST, I scheduled it for
 Tuesday at 2am since I am on GMT time.
 
-![steam\_create\_event.png](steam_create_event.png
+![steam\_create\_event.png](images/steam_create_event.png
 "steam_create_event.png")
 
 Note that there are plenty of FireFox extensions out there (i.e.

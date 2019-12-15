@@ -18,9 +18,9 @@ Coordinate system refers to the grid on the map overview, where you can
 look at the letters and numbers to determine your Coordinates. For
 instance, in the following image, the player is at coordinates B-3.
 
-![mapgrid.png](mapgrid.png "mapgrid.png")
+![mapgrid.png](images/mapgrid.png "mapgrid.png")
 
-![keypad.png](keypad.png "keypad.png")But because each 'square' on the
+![keypad.png](images/keypad.png "keypad.png")But because each 'square' on the
 grid can consist of hundreds of square kilometres, 29th members narrow
 Coordinates further by specifying the "keypad." If you look at your
 computer's keyboard and find the keypad on the right-hand side of it

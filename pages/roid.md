@@ -33,7 +33,7 @@ It will display a list of the players in the server, as well as their
 ROIDs. You can use your mouse scroll to go up and down the list. The
 ROID will be listed next to their name, as shown in the example below.
 
-![Roid\_console.png](Roid_console.png "Roid_console.png")
+![Roid\_console.png](images/Roid_console.png "Roid_console.png")
 
 ### Using their Steam Community Page
 

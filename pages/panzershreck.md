@@ -22,6 +22,6 @@ It's basic properties are listed below.
     Load](Prone_Load "wikilink")
   - [Aim points](Weapon_mechanics "wikilink"):
 
-![PzShrk\_aimpoint\_placeholder.jpg](PzShrk_aimpoint_placeholder.jpg
+![PzShrk\_aimpoint\_placeholder.jpg](images/PzShrk_aimpoint_placeholder.jpg
 "PzShrk_aimpoint_placeholder.jpg")
 

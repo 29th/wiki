@@ -40,7 +40,7 @@ and posted in [Promotions and
 Awards](http://forums.29th.org/categories/promotions-and-awards)
 sections of the forums.
 
-![Thompson.gif](Thompson.gif "Thompson.gif")
+![Thompson.gif](images/Thompson.gif "Thompson.gif")
 
 For setting up a recurring donation, regardless of the size, a soldier
 will earn a-two-day [weapons pass](Weapons_Passes "wikilink"). Once a

@@ -21,6 +21,6 @@ It's basic properties are listed below.
   - Weapon tricks: [Quick Switch](Quick_Switch "wikilink")
   - [Aim points](Weapon_mechanics "wikilink"):
 
-![Panzerfaust\_aimpoint\_placeholder.jpg](Panzerfaust_aimpoint_placeholder.jpg
+![Panzerfaust\_aimpoint\_placeholder.jpg](images/Panzerfaust_aimpoint_placeholder.jpg
 "Panzerfaust_aimpoint_placeholder.jpg")
 

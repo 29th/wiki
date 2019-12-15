@@ -23,5 +23,5 @@ It's basic properties are listed below.
     Prone](Quick_Prone "wikilink")
   - [Aim point](Weapon_mechanics "wikilink"):
 
-![Leeaimpoint.jpg](Leeaimpoint.jpg "Leeaimpoint.jpg")
+![Leeaimpoint.jpg](images/Leeaimpoint.jpg "Leeaimpoint.jpg")
 

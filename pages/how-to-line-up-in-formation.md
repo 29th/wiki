@@ -14,7 +14,7 @@ as possible.
 
 Below, you will see a diagram of your typical Platoon Formation.
 
-![Platoon-formation.png](Platoon-formation.png "Platoon-formation.png")
+![Platoon-formation.png](images/Platoon-formation.png "Platoon-formation.png")
 
 **Legend**
 

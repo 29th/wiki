@@ -12,150 +12,150 @@ will show a larger picture.
 
 ## Bois Jacques
 
-![Bois\_Jacques.jpg](Bois_Jacques.jpg "Bois_Jacques.jpg")
+![Bois\_Jacques.jpg](images/Bois_Jacques.jpg "Bois_Jacques.jpg")
 
 ## Brecourt
 
-![Brecourt.jpg](Brecourt.jpg "Brecourt.jpg")
+![Brecourt.jpg](images/Brecourt.jpg "Brecourt.jpg")
 
 ## Carentan
 
-![Carentan.jpg](Carentan.jpg "Carentan.jpg")
+![Carentan.jpg](images/Carentan.jpg "Carentan.jpg")
 
 ## Foy
 
-![Foy.jpg](Foy.jpg "Foy.jpg")
+![Foy.jpg](images/Foy.jpg "Foy.jpg")
 
 ## Ginkel
 
-![Ginkel.jpg](Ginkel.jpg "Ginkel.jpg")
+![Ginkel.jpg](images/Ginkel.jpg "Ginkel.jpg")
 
 ## Hill108 (Old Version)
 
-![Hill108OldVersion.jpg](Hill108OldVersion.jpg "Hill108OldVersion.jpg")
+![Hill108OldVersion.jpg](images/Hill108OldVersion.jpg "Hill108OldVersion.jpg")
 
 ## Raids
 
-![Raids.jpg](Raids.jpg "Raids.jpg")
+![Raids.jpg](images/Raids.jpg "Raids.jpg")
 
 ## Stoumont
 
-![Stoumont.jpg](Stoumont.jpg "Stoumont.jpg")
+![Stoumont.jpg](images/Stoumont.jpg "Stoumont.jpg")
 
 ## Vieux
 
-![Vieux.jpg](Vieux.jpg "Vieux.jpg")
+![Vieux.jpg](images/Vieux.jpg "Vieux.jpg")
 
 ## Donner
 
-![Donner.jpg](Donner.jpg "Donner.jpg")
+![Donner.jpg](images/Donner.jpg "Donner.jpg")
 
 ## Gun Assault
 
-![Gun\_Assault.jpg](Gun_Assault.jpg "Gun_Assault.jpg")
+![Gun\_Assault.jpg](images/Gun_Assault.jpg "Gun_Assault.jpg")
 
 ## Koitos
 
-![Koitos.jpg](Koitos.jpg "Koitos.jpg")
+![Koitos.jpg](images/Koitos.jpg "Koitos.jpg")
 
 ## Ville Ruinee
 
-![La\_Ville\_Ruinae.jpg](La_Ville_Ruinae.jpg "La_Ville_Ruinae.jpg")
+![La\_Ville\_Ruinae.jpg](images/La_Ville_Ruinae.jpg "La_Ville_Ruinae.jpg")
 
 ## Lutremange
 
-![Lutremange.jpg](Lutremange.jpg "Lutremange.jpg")
+![Lutremange.jpg](images/Lutremange.jpg "Lutremange.jpg")
 
 ## Lutremange OCS
 
-![LutremangeOCS.jpg](LutremangeOCS.jpg "LutremangeOCS.jpg")
+![LutremangeOCS.jpg](images/LutremangeOCS.jpg "LutremangeOCS.jpg")
 
 ## Maupertus
 
-![Maupertus.jpg](Maupertus.jpg "Maupertus.jpg")
+![Maupertus.jpg](images/Maupertus.jpg "Maupertus.jpg")
 
 ## St. Clement
 
-![St.\_Clement.jpg](St._Clement.jpg "St._Clement.jpg")
+![St.\_Clement.jpg](images/St._Clement.jpg "St._Clement.jpg")
 
 ## St. Lo
 
-![St.\_Lo.jpg](St._Lo.jpg "St._Lo.jpg")
+![St.\_Lo.jpg](images/St._Lo.jpg "St._Lo.jpg")
 
 ## Stavelot
 
-![Stavelot.jpg](Stavelot.jpg "Stavelot.jpg")
+![Stavelot.jpg](images/Stavelot.jpg "Stavelot.jpg")
 
 ## Arnhem bridge
 
-![Arnhem\_Bridge-B4.jpg](Arnhem_Bridge-B4.jpg "Arnhem_Bridge-B4.jpg")
+![Arnhem\_Bridge-B4.jpg](images/Arnhem_Bridge-B4.jpg "Arnhem_Bridge-B4.jpg")
 
 ## Carmes Pont
 
-![Dhcarmespontport.jpg](Dhcarmespontport.jpg "Dhcarmespontport.jpg")
+![Dhcarmespontport.jpg](images/Dhcarmespontport.jpg "Dhcarmespontport.jpg")
 
 ## Chambois
 
-![Chambois-B2.jpg](Chambois-B2.jpg "Chambois-B2.jpg")
+![Chambois-B2.jpg](images/Chambois-B2.jpg "Chambois-B2.jpg")
 
 ## Dog Green
 
-![DogGreen.jpg](DogGreen.jpg "DogGreen.jpg")
+![DogGreen.jpg](images/DogGreen.jpg "DogGreen.jpg")
 
 ## Fallen Heroes
 
-![FallenHeroes\_Port.jpg](FallenHeroes_Port.jpg "FallenHeroes_Port.jpg")
+![FallenHeroes\_Port.jpg](images/FallenHeroes_Port.jpg "FallenHeroes_Port.jpg")
 
 ## Hedgerow Hell
 
-![HedgerowHell.jpg](HedgerowHell.jpg "HedgerowHell.jpg")
+![HedgerowHell.jpg](images/HedgerowHell.jpg "HedgerowHell.jpg")
 
 ## Hurtgenwald
 
-![Hurtgenwald.jpg](Hurtgenwald.jpg "Hurtgenwald.jpg")
+![Hurtgenwald.jpg](images/Hurtgenwald.jpg "Hurtgenwald.jpg")
 
 ## Juno Beach
 
-![Juno\_Beach.jpg](Juno_Beach.jpg "Juno_Beach.jpg")
+![Juno\_Beach.jpg](images/Juno_Beach.jpg "Juno_Beach.jpg")
 
 ## Kolono
 
-![Kolono.jpg](Kolono.jpg "Kolono.jpg")
+![Kolono.jpg](images/Kolono.jpg "Kolono.jpg")
 
 ## Chapelle
 
-![LaChapelle.jpg](LaChapelle.jpg "LaChapelle.jpg")
+![LaChapelle.jpg](images/LaChapelle.jpg "LaChapelle.jpg")
 
 ## Noville
 
-![Noville.jpg](Noville.jpg "Noville.jpg")
+![Noville.jpg](images/Noville.jpg "Noville.jpg")
 
 ## Pegasus Bridge
 
-![PegasusBridge.jpg](PegasusBridge.jpg "PegasusBridge.jpg")
+![PegasusBridge.jpg](images/PegasusBridge.jpg "PegasusBridge.jpg")
 
 ## Port En Bessin
 
-![Port-En-Bessin.jpg](Port-En-Bessin.jpg "Port-En-Bessin.jpg")
+![Port-En-Bessin.jpg](images/Port-En-Bessin.jpg "Port-En-Bessin.jpg")
 
 ## Poteau Ambush
 
-![Poteau\_Ambush.jpg](Poteau_Ambush.jpg "Poteau_Ambush.jpg")
+![Poteau\_Ambush.jpg](images/Poteau_Ambush.jpg "Poteau_Ambush.jpg")
 
 ## Putot En Bessin
 
-![Putot-En-Bessin\_Beta3b.jpg](Putot-En-Bessin_Beta3b.jpg
+![Putot-En-Bessin\_Beta3b.jpg](images/Putot-En-Bessin_Beta3b.jpg
 "Putot-En-Bessin_Beta3b.jpg")
 
 ## Road to Isigny
 
-![Road\_To\_Isigny.jpg](Road_To_Isigny.jpg "Road_To_Isigny.jpg")
+![Road\_To\_Isigny.jpg](images/Road_To_Isigny.jpg "Road_To_Isigny.jpg")
 
 ## St. Clair
 
-![Saint-Clair.jpg](Saint-Clair.jpg "Saint-Clair.jpg")
+![Saint-Clair.jpg](images/Saint-Clair.jpg "Saint-Clair.jpg")
 
 ## St. Fromond
 
-![StFromond.jpg](StFromond.jpg "StFromond.jpg")
+![StFromond.jpg](images/StFromond.jpg "StFromond.jpg")
 

@@ -306,7 +306,7 @@ assigned to you by the server regardless of which PC you're using.
 
 #### Whisper Lists
 
-![The TS3 Whisper list.](TS3_Whisper_list.png "The TS3 Whisper list.")
+![The TS3 Whisper list.](images/TS3_Whisper_list.png "The TS3 Whisper list.")
 
 1.  In Teamspeak, log on to the 29th server, and click on Settings \>
     Options (or just the Alt-P shortcut).

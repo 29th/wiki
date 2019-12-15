@@ -22,6 +22,6 @@ It's basic properties are listed below.
     Reload](Sprint_Reload "wikilink"),
   - [Aim points](Weapon_mechanics "wikilink"):
 
-![PIAT\_aimpoint\_placeholder.jpg](PIAT_aimpoint_placeholder.jpg
+![PIAT\_aimpoint\_placeholder.jpg](images/PIAT_aimpoint_placeholder.jpg
 "PIAT_aimpoint_placeholder.jpg")
 

@@ -22,6 +22,6 @@ It's basic properties are listed below.
     Load](Prone_Load "wikilink")
   - [Aim points](Weapon_mechanics "wikilink"):
 
-![Bazooka\_aimpoint\_placeholder.jpg](Bazooka_aimpoint_placeholder.jpg
+![Bazooka\_aimpoint\_placeholder.jpg](images/Bazooka_aimpoint_placeholder.jpg
 "Bazooka_aimpoint_placeholder.jpg")
 

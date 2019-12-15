@@ -22,9 +22,9 @@ award a medal to a soldier under your command.
 Highest medal in the 29th. This soldier has proven himself to be
 exceptional in every regard.
 
-![Dsc.gif](Dsc.gif "Dsc.gif")
+![Dsc.gif](images/Dsc.gif "Dsc.gif")
 
-![Dscribbon.gif](Dscribbon.gif "Dscribbon.gif")
+![Dscribbon.gif](images/Dscribbon.gif "Dscribbon.gif")
 
 ## Leadership
 
@@ -40,17 +40,17 @@ responsibly. Contributing not only what is expected in the 29th, but who
 has made contributions above and beyond the expectations of any member
 in the 29th.
 
-![Dsm.gif](Dsm.gif "Dsm.gif")
+![Dsm.gif](images/Dsm.gif "Dsm.gif")
 
-![Dsmribbon.gif‎](Dsmribbon.gif‎ "Dsmribbon.gif‎")
+![Dsmribbon.gif‎](images/Dsmribbon.gif‎ "Dsmribbon.gif‎")
 
 ### American Campaign Medal
 
 Awarded for exemplary leadership on or off the battlefield.
 
-![acamp.gif](acamp.gif "acamp.gif")
+![acamp.gif](images/acamp.gif "acamp.gif")
 
-![acampribbon.gif](acampribbon.gif "acampribbon.gif")
+![acampribbon.gif](images/acampribbon.gif "acampribbon.gif")
 
 ### Army NCO Professional Development Ribbon
 
@@ -66,9 +66,9 @@ but demonstrated the core principles of being an effective soldier in
 the 29th Infantry Division. This medal is only awarded when the
 soldier's game-play was at a level of the highest caliber.
 
-![Sstar.gif](Sstar.gif "Sstar.gif")
+![Sstar.gif](images/Sstar.gif "Sstar.gif")
 
-![Sstarribon.gif](Sstarribon.gif "Sstarribon.gif")
+![Sstarribon.gif](images/Sstarribon.gif "Sstarribon.gif")
 
 ### Bronze Star
 
@@ -76,9 +76,9 @@ This soldier has demonstrated exemplary performance while engaging the
 enemy in a realism scrimmage. While not single handedly securing
 victory, his actions must have been of significance.
 
-![bstar.gif](bstar.gif "bstar.gif")
+![bstar.gif](images/bstar.gif "bstar.gif")
 
-![bstarribbon.gif](bstarribbon.gif "bstarribbon.gif")
+![bstarribbon.gif](images/bstarribbon.gif "bstarribbon.gif")
 
 ### Army Commendation Medal
 
@@ -87,9 +87,9 @@ towards his teams victory without necessarily engaging the enemy. This
 award is for actions of significance not covered by a Bronze or Silver
 Star.
 
-![acom.gif](acom.gif "acom.gif")
+![acom.gif](images/acom.gif "acom.gif")
 
-![acomribbon.gif](acomribbon.gif "acomribbon.gif")
+![acomribbon.gif](images/acomribbon.gif "acomribbon.gif")
 
 ### Soldier's Medal
 
@@ -97,35 +97,35 @@ This soldier's extensive preparation during practice or drills prior to
 a scrimmage or drill prevented casualties by providing vital
 intelligence or training for his team.
 
-![sm.gif](sm.gif "sm.gif")
+![sm.gif](images/sm.gif "sm.gif")
 
-![smribbon.gif](smribbon.gif "smribbon.gif")
+![smribbon.gif](images/smribbon.gif "smribbon.gif")
 
 ### Purple Heart
 
 This soldier has selflessly put him self in peril to successfully aid
 his comrades and in doing so was wounded or killed
 
-![ph.gif](ph.gif "ph.gif")
+![ph.gif](images/ph.gif "ph.gif")
 
-![phribbon.gif](phribbon.gif "phribbon.gif")
+![phribbon.gif](images/phribbon.gif "phribbon.gif")
 
 ### Legion of Merit
 
 Awarded for leading and winning an Official Scrimmage
 
-![Lom.gif](Lom.gif "Lom.gif")
+![Lom.gif](images/Lom.gif "Lom.gif")
 
-![Lomribbon.gif](Lomribbon.gif "Lomribbon.gif")
+![Lomribbon.gif](images/Lomribbon.gif "Lomribbon.gif")
 
 ### European-African-Middle Eastern Campaign Medal
 
 Only awarded to the participants that win an attack round of an official
 scrimmage.
 
-![eamc.gif](eamc.gif "eamc.gif")
+![eamc.gif](images/eamc.gif "eamc.gif")
 
-![eamcribbon.gif](eamcribbon.gif "eamcribbon.gif")
+![eamcribbon.gif](images/eamcribbon.gif "eamcribbon.gif")
 
 ### Defence Meritorious Service Medal Medal
 
@@ -148,9 +148,9 @@ and exemplary attendance, this soldier's positive attitude and
 involvement in 29th related activities, other than his drills or staff
 commitments, has benefited the unit.
 
-![gcon.gif](gcon.gif "gcon.gif")
+![gcon.gif](images/gcon.gif "gcon.gif")
 
-![gconribbon.gif](gconribbon.gif "gconribbon.gif")
+![gconribbon.gif](images/gconribbon.gif "gconribbon.gif")
 
 ### Army Achievement Award
 
@@ -173,33 +173,33 @@ benefited the unit.
 
 Soldier has been credited with two recruits.
 
-![Cab1st.gif](Cab1st.gif "Cab1st.gif")
+![Cab1st.gif](images/Cab1st.gif "Cab1st.gif")
 
 ### Combat Action Badge, 2nd Award
 
 Soldier has been credited with five recruits.
 
-![Cab2.gif](Cab2.gif "Cab2.gif")
+![Cab2.gif](images/Cab2.gif "Cab2.gif")
 
 ### Combat Action Badge, 3rd Award
 
 Soldier has been credited with ten recruits.
 
-![Cab3.gif](Cab3.gif "Cab3.gif")
+![Cab3.gif](images/Cab3.gif "Cab3.gif")
 
 ### Combat Action Badge, 4th Award
 
 Soldier has been credited with twenty recruits.
 
-![Cab4.gif](Cab4.gif "Cab4.gif")
+![Cab4.gif](images/Cab4.gif "Cab4.gif")
 
 ### American Defence Service Medal
 
 Soldier has graduated the 29th ID's Basic Training program.
 
-![adef.gif](adef.gif "adef.gif")
+![adef.gif](images/adef.gif "adef.gif")
 
-![adefribbon.gif](adefribbon.gif "adefribbon.gif")
+![adefribbon.gif](images/adefribbon.gif "adefribbon.gif")
 
 ## Technical Ability
 
@@ -244,19 +244,19 @@ unit.
 
 This soldier has shown extreme dedication to recruitment.
 
-![recruiter.png](recruiter.png "recruiter.png")
+![recruiter.png](images/recruiter.png "recruiter.png")
 
 ### Drill Sergeant Badge
 
 Awarded to Drill Sergeants.
 
-![di.png](di.png "di.png")
+![di.png](images/di.png "di.png")
 
 ### Military Police Badge
 
 Awarded to Military Police Officers.
 
-![mp.png](mp.png "mp.png")
+![mp.png](images/mp.png "mp.png")
 
 ## Service Time Awards
 
@@ -265,9 +265,9 @@ Awarded to Military Police Officers.
 This soldier has served six months of service in the 29th Infantry
 Division.
 
-![aocc.gif](aocc.gif "aocc.gif")
+![aocc.gif](images/aocc.gif "aocc.gif")
 
-![aoccribbon.gif](aoccribbon.gif "aoccribbon.gif")
+![aoccribbon.gif](images/aoccribbon.gif "aoccribbon.gif")
 
 ### World War I Victory Medal
 

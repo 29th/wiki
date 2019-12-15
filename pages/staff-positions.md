@@ -20,7 +20,7 @@ You may see all of the staff positions and the people that occupy them
 [here](http://29th.org/personnel/staff/) or by using this drop down on
 the forum:
 
-![Staffdropdown.jpg](Staffdropdown.jpg "Staffdropdown.jpg")
+![Staffdropdown.jpg](images/Staffdropdown.jpg "Staffdropdown.jpg")
 
 Each staff position or corps is given a number. The staff numbers are
 assigned according to custom not hierarchy; i.e., **1** is not "higher
