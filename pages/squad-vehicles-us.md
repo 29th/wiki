@@ -1,5 +1,5 @@
 ---
-title: Squad Vehicles
+title: US Squad Vehicles
 permalink: /Squad_Vehicles_US
 layout: page
 author: Conway
