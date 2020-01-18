@@ -20,10 +20,10 @@ The vehicles in play can also be different in a round by round basis, or a team 
 
 **Vehicles by faction:**
 
-  - United States Army
+  - [United States Army](Squad_Vehicles_US "wikilink")
 
-  - British Armed Forces
+  - [British Armed Forces](Squad_Vehicles_UK "wikilink")
 
-  - Russian Armed Forces
+  - [Russian Armed Forces](Squad_Vehicles_RU "wikilink")
 
-  - Militia/Insurgents
+  - [Militia/Insurgents](Squad_Vehicles_INS "wikilink")

@@ -1,6 +1,6 @@
 ---
-title: Russian Squad Vehicles
-permalink: /Squad_Vehicles_RU
+title: Insurgets/Militia Squad Vehicles
+permalink: /Squad_Vehicles_INS
 layout: page
 author: Conway
 date: 2020-01-18T23:38:44Z
