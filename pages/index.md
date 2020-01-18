@@ -65,6 +65,7 @@ and understand the policies you are expected to follow.
   - [Arma 3 Infobank](http://www.29th.org/a3/)
   - [Darkest Hour Infobank](http://www.29th.org/dh)
   - [Rising Storm Infobank](http://www.29th.org/rs/)
+  - [Squad](http://www.29th.org/wiki/squad)
 
 ## Other
 
