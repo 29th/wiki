@@ -6,5 +6,8 @@ author: Conway
 date: 2020-01-18T23:38:44Z
 category: 
 ---
+##Squad Info Bank
 
+**Contents**
 
+**Quick Links**
