@@ -12,7 +12,7 @@ _Note: This section of the wiki is still under construction!_
 
 **Contents**
 
-  - AITs
+  - [AITs](Squad_AITs "wikilink")
   - Vehicles
 
 **Quick Links**
