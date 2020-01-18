@@ -15,12 +15,19 @@ Does not require Crewmen: M-ATV TOW, M-ATV, M-ATV CROWS, M939 Logistic, M939 Tra
 ---
 
 M1A2 Abrams
+
 Main Batlle Tank
+
 4 Crewman positions: Driver, Gunner, Commander and Loader
+
 Main gun: 120mm cannon
+
 Ammo: 21 armor-piercing sabot, 21 High Explosive Anti-Tank
+
 Secondary gunner equipment: M240B MG, smoke grenade launchers
+
 Commander's gun: .50cal HMG
+
 Loader's gun: M249 MG
 
   - The Abrams present the highest capacity for infantry fire support out of all the MBTs with its high ammount of HE shells, but its worth mentioning that while it is a force to be reckoned with, as every other vehicle, it works best with the support of infantry to make sure it survives the fights.
@@ -30,11 +37,17 @@ Loader's gun: M249 MG
 ---
 
 M2A3 Bradley
+
 Infantry Fighting Vehicle
+
 2 Crewman positions: Driver, Gunner
+
 8 transport slots
+
 Main gun: 25mm cannon, TOW launcher.
+
 Ammo: 70 armor-piercing sabot, 230 high explosive
+
 Secondary gunner equipment: M240B MG.
 
   - The Bradley is a powerful IFV, capable of great fire support, and able to take out any enemy vehicles it encounters, even tanks if it catches its enemy off guard with its TOW missiles.
@@ -44,51 +57,79 @@ Secondary gunner equipment: M240B MG.
 ---
 
 M1126 Stryker
+
 Armored Personnel Carrier
+
 2 Crewman positions: Driver, Gunner
+
 9 transport slots
+
 Main gun: .50cal HMG
+
 Secondary gunner equipment: Smoke grenade launchers
 
 ---
 
 M-ATV TOW
+
 Fire Support/Armor Hunter
+
 No crewman positions
+
 5 transport slots
+
 Main gun: TOW Launcher
+
 Ammo: 6 TOW missiles
 
 ---
 
 M-ATV CROWS
+
 Light Attack Vehicle
+
 No crewman positions
+
 4 transport slots
+
 Main gun: CROWS .50cal HMG
+
 Ammo: 500 rounds
 
 ---
 
 M-ATV
+
 Light Attack Vehicle
+
 No crewman positions
+
 5 transport slots
+
 Main gun: Open top .50cal HMG
+
 Ammo: 500 rounds
 
 ---
 
 M939
+
 Logistics Truck
+
 No crewman positions
+
 11 transport slots
+
 No offensive armaments
 
 ---
 
 M939
+
 Transport Truck
+
 No crewman positions
+
 18 transport slots
+
 No offensive armaments
