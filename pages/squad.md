@@ -13,6 +13,6 @@ _Note: This section of the wiki is still under construction!_
 **Contents**
 
   - [AITs](Squad_AITs "wikilink")
-  - Vehicles
+  - [Vehicles](Squad_Vehicles "wikilink")
 
 **Quick Links**
