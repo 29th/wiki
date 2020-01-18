@@ -4,7 +4,7 @@ permalink: /Server_Rules
 layout: page
 author: Conway
 date: 2011-09-18T02:40:23Z
-category: 
+category: Policy
 ---
 ## Rules for Drills
 **Saluting:**
