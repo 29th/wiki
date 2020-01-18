@@ -19,3 +19,6 @@ category:
   - [Red Orchestra 2 / Rising Storm Weapons and
     Vehicles](Red_Orchestra_2_/_Rising_Storm_Weapons_and_Vehicles "wikilink")
 
+<!-- end list -->
+
+  - [Squad Weapons and Vehicles](Squad "wikilink")
