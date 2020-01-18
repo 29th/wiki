@@ -59,6 +59,7 @@ Battalion Executive Officer -
 Battalion Commander - Currently assumes command of the entire 29th ID. Being that the unit currently operates as a Battalion, the Battalion CO has the final say in all matters of the unit. Since the Companies and Platoons can usually handle their own affairs, this individual tends to only step in when it is most important or when the issue at hand affects the entirety of the unit. The Battalion CO is crucial both in setting the rule and the example and helps to tie all companies together under the single banner of the 29th ID.
 
 **Battalion Level Assignments**
+
 _For more information see Staff Offices_
 
 In addition to every member's primary combat assignment, there are many staff-related assignments (sometimes referred to as "staff jobs") that members can volunteer to fulfil. The assignments are found within Staff Offices, organized units that serve a specific function outside of in game combat. Each office a variety of different jobs that need to be done and many have room for advancement in themselves. Staff assignments allow members to get more involved in the unit, learn its various parts, get their name out there for future considerations, and allow one to donate their time to keep the 29th functioning. Many of the 29th's greatest leaders have been involved in some sort of staff assignment and many do so throughout their time in the unit.
