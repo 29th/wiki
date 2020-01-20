@@ -13,6 +13,8 @@ Everyone from Squad Leaders to Platoon Leaders to Company Commanders to
 the Battalion Commander has, at one time, been a Private, and you can
 check their [Tour of Duty](Tour_of_Duty "wikilink") for proof.
 
+If you are seeking information on rank organization you can find it [here](Rank_Organization "wikilink").
+
 Below are the ranks of the 29th Infantry Division and what they mean.
 
 ## Privates

@@ -21,21 +21,4 @@ from the top down. It is important that avoid skipping steps in the
 chain of command when ever your issue can be dealt with by your
 immediate superior.
 
-`     Bn. HQ <-----> Bn. Support Staff HQ  `  
-`      \ /   \ ____________/`  
-`       |    /`  
-`       |   /`  
-`     Co. HQ`  
-`      \ /`  
-`       |`  
-`       |`  
-`    Plt. HQ`  
-`      \ /`  
-`       |`  
-`       |`  
-`    Sqd. HQ`  
-`      \ /`  
-`       |`  
-`       |`  
-`  Squad Member`
-
+<img src="https://i.imgur.com/Nn6kVdL.png">
