@@ -8,46 +8,44 @@ category:
 ---
 ## Arma 3 Vehicles
 
-**Contents**
+**BLUFOR VEHICLES**
 
-BLUFOR VEHICLES
+<li>APCS</li>
 
-	<li>APCS</li>
+<li>CARS</li>
 
-	<li>CARS</li>
+<li>HELICOPTERS</li>
 
-	<li>HELICOPTERS</li>
+<li>IFVS</li>
 
-	<li>IFVS</li>
+<li>MRAPS</li>
 
-	<li>MRAPS</li>
+<li>TANKS</li>
 
-	<li>TANKS</li>
+<li>TRUCKS</li>
 
-	<li>TRUCKS</li>
+<li>TURRETS</li>
 
-	<li>TURRETS</li>
-
-	<li>MISC</li>
+<li>MISC</li>
 
 ---
 
-OPFOR VEHICLES
+**OPFOR VEHICLES**
 
-	<li>APCS</li>
+<li>APCS</li>
 
-	<li>CARS</li>
+<li>CARS</li>
 
-	<li>HELICOPTERS</li>
+<li>HELICOPTERS</li>
 
-	<li>IFVS</li>
+<li>IFVS</li>
 
-	<li>MRAPS</li>
+<li>MRAPS</li>
 
-	<li>TANKS</li>
+<li>TANKS</li>
 
-	<li>TRUCKS</li>
+<li>TRUCKS</li>
 
-	<li>TURRETS</li>
+<li>TURRETS</li>
 
-	<li>MISC</li>
+<li>MISC</li>
