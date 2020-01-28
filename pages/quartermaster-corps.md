@@ -8,9 +8,9 @@ category:
 ---
 Quartermaster Corps is one of the staff offices in the 29th. The purpose of the office is to create content for both internal and public use. Most, if not all, of the graphics that the 29th uses have been created by the individuals in this office. These graphics may include: banners, squad/platoon/company/battalion logos, and any other form of media in the form of an image. This, however, is only half of the media produced by the office; the other is the production of video media for the unit's public YouTube channel. Quartermaster Corps is responsible for recording, editing, and publishing all of the videos (with the exception of the Veterans Virtues series) for the YouTube channel. Overall, the purpose of the office is to create 29th related content for internal and external use.
 
-Any member of the unit can contribute without needing to be in the office by posting [here](https://forums.29th.org/discussion/33329/community-video-submissions)
+Any member of the unit can contribute without needing to be in the office by posting [here](https://forums.29th.org/discussion/33329/community-video-submissions).
 
-For more information about the office, go [here](https://forums.29th.org/discussion/28734/welcome-to-quartermaster-corps)
+For more information about the office, go [here](https://forums.29th.org/discussion/28734/welcome-to-quartermaster-corps).
 
 ## POSITIONS WITHIN THE OFFICE
 
