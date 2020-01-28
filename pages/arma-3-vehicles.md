@@ -10,7 +10,7 @@ category:
 
 **BLUFOR VEHICLES**
 
- - [APCS](Arma_ "wikilink")
+ - [APCS](Arma_Blu_APCs "wikilink")
 
  - [CARS](Arma_ "wikilink")
 
