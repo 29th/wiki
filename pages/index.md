@@ -44,7 +44,7 @@ prevent them from making common mistakes.
 
 {% assign fm21_100 = site.pages | where: "category", "FM 21-100" %}
 {% for page in fm21_100 %}
-  - [{{ page.title }}](wiki/{{ page.url }})
+  - [{{ page.title }}](wiki{{ page.url }})
 {% endfor %}
 
 ## Policy Handbook
