@@ -13,6 +13,7 @@ _Note: This section of the wiki is still under construction!_
 **Contents**
 
   - [AITs](Arma_AITs "wikilink")
+  - [Weapons](Arma_Weapons "wikilink")
   - [Vehicles](Arma_Vehicles "wikilink")
 
 **Quick Links**
