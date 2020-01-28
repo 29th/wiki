@@ -10,42 +10,42 @@ category:
 
 **BLUFOR VEHICLES**
 
-<li>APCS</li>
+<li>[APCS](Arma_ "wikilink")</li>
 
-<li>CARS</li>
+<li>[CARS](Arma_ "wikilink")</li>
 
-<li>HELICOPTERS</li>
+<li>[HELICOPTERS](Arma_ "wikilink")</li>
 
-<li>IFVS</li>
+<li>[IFVS](Arma_ "wikilink")</li>
 
-<li>MRAPS</li>
+<li>[MRAPS](Arma_ "wikilink")</li>
 
-<li>TANKS</li>
+<li>[TANKS](Arma_ "wikilink")</li>
 
-<li>TRUCKS</li>
+<li>[TRUCKS](Arma_ "wikilink")</li>
 
-<li>TURRETS</li>
+<li>[TURRETS](Arma_ "wikilink")</li>
 
-<li>MISC</li>
+<li>[MISC](Arma_ "wikilink")</li>
 
 ---
 
 **OPFOR VEHICLES**
 
-<li>APCS</li>
+<li>[APCS](Arma_ "wikilink")</li>
 
-<li>CARS</li>
+<li>[CARS](Arma_ "wikilink")</li>
 
-<li>HELICOPTERS</li>
+<li>[HELICOPTERS](Arma_ "wikilink")</li>
 
-<li>IFVS</li>
+<li>[IFVS](Arma_ "wikilink")</li>
 
-<li>MRAPS</li>
+<li>[MRAPS](Arma_ "wikilink")</li>
 
-<li>TANKS</li>
+<li>[TANKS](Arma_ "wikilink")</li>
 
-<li>TRUCKS</li>
+<li>[TRUCKS](Arma_ "wikilink")</li>
 
-<li>TURRETS</li>
+<li>[TURRETS](Arma_ "wikilink")</li>
 
-<li>MISC</li>
+<li>[MISC](Arma_ "wikilink")</li>
