@@ -6,10 +6,7 @@ author: JHill
 date: 2016-08-16T06:29:06Z
 category: 
 ---
-The Battalion Support Staff are responsible for keeping the 29th running
-smoothly and effectively, which includes anything from financing and
-enforcing rules on the servers the 29th uses, to helping out 29th
-members with technical issues.
+In the 29th ID, staff offices are various units that are separate from the combat units and exist to perform a specific function within the unit. They are made up of volunteers from across all of the companies in the unit and follow their own chain of command but exist mostly to support the combat units to varying degrees. Unlike real life support units, everyone in the 29th who serves in a staff office also has a primary combat assignment as well with very rare exceptions.
 
 It currently consists of four groups, respectively (S-1) Personnel,
 (S-2) Intelligence, (S-3) Operations and (S-4) Logistics:
