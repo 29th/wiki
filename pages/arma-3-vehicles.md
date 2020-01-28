@@ -12,21 +12,21 @@ category:
 
  - [APCS](Arma_Blu_APCs "wikilink")
 
- - [CARS](Arma_ "wikilink")
+ - [CARS](Arma_Blu_Cars "wikilink")
 
- - [HELICOPTERS](Arma_ "wikilink")
+ - [HELICOPTERS](Arma_Blu_Helicopters "wikilink")
 
- - [IFVS](Arma_ "wikilink")
+ - [IFVS](Arma_Blu_IFVs "wikilink")
 
- - [MRAPS](Arma_ "wikilink")
+ - [MRAPS](Arma_Blu_MRAPs "wikilink")
 
- - [TANKS](Arma_ "wikilink")
+ - [TANKS](Arma_Blu_Tanks "wikilink")
 
- - [TRUCKS](Arma_ "wikilink")
+ - [TRUCKS](Arma_Blu_Trucks "wikilink")
 
- - [TURRETS](Arma_ "wikilink")
+ - [TURRETS](Arma_Blu_Turrets "wikilink")
 
- - [MISC](Arma_ "wikilink")
+ - [MISC](Arma_Blu_Misc "wikilink")
 
 ---
 

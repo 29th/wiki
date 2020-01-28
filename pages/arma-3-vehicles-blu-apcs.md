@@ -15,13 +15,13 @@ ___
 
 ___
 
-## M113A3
+**M113A3**
 
  
 
 [<img src="https://i.imgur.com/ZaMxfeK.jpg">](https://i.imgur.com/kqkNnwH.jpg)
 
-_The M113 is a fully tracked armored personnel carrier (APC) that was developed and produced by the Food Machinery Corp._
+The M113 is a fully tracked armored personnel carrier (APC) that was developed and produced by the Food Machinery Corp.
 
 
 ## Specifications
@@ -58,14 +58,12 @@ Original production M113s can swim without deploying flotation curtains, using o
 Food Machinery Corp had produced the earlier M59 and M75 Armored personnel carriers. The M113 bears a very strong resemblance to both of these earlier vehicles.
 
 **Rear Profile**
-
  
 
 [<img src="https://i.imgur.com/t9zjuzY.jpg">](https://i.imgur.com/tlsC5me.jpg)
 The M113 was the most widely used armored vehicle of the U.S. Army in the Vietnam War, earning the nickname 'Green Dragon' by the Viet Cong as it was used to break through heavy thickets in the midst of the jungle to attack and overrun enemy positions.
 
  
-
 **Variants**
 
  
