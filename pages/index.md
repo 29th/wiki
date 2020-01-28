@@ -62,7 +62,7 @@ and understand the policies you are expected to follow.
 
 ## Game Specific Wikis
 
-  - [Arma 3 Infobank](http://www.29th.org/a3/)
+  - [Arma 3 Infobank](http://www.29th.org/wiki/Arma)
   - [Rising Storm Infobank](http://www.29th.org/rs/)
   - [Squad Infobank](http://www.29th.org/wiki/Squad)
 
