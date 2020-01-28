@@ -32,20 +32,20 @@ category:
 
 **OPFOR VEHICLES**
 
- - [APCS](Arma_ "wikilink")
+ - [APCS](Arma_Op_APCs "wikilink")
 
- - [CARS](Arma_ "wikilink")
+ - [CARS](Arma_Op_Cars "wikilink")
 
- - [HELICOPTERS](Arma_ "wikilink")
+ - [HELICOPTERS](Arma_Op_Helicopters "wikilink")
 
- - [IFVS](Arma_ "wikilink")
+ - [IFVS](Arma_Op_IFVs "wikilink")
 
- - [MRAPS](Arma_ "wikilink")
+ - [MRAPS](Arma_Op_MRAPs "wikilink")
 
- - [TANKS](Arma_ "wikilink")
+ - [TANKS](Arma_Op_Tanks "wikilink")
 
- - [TRUCKS](Arma_ "wikilink")
+ - [TRUCKS](Arma_Op_Trucks "wikilink")
 
- - [TURRETS](Arma_ "wikilink")
+ - [TURRETS](Arma_Op_Turrets "wikilink")
 
  - [MISC](Arma_ "wikilink")
