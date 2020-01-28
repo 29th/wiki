@@ -57,7 +57,7 @@ and understand the policies you are expected to follow.
 
 {% assign policy = site.pages | where: "category", "Policy" %}
 {% for page in policy %}
-  - [{{ page.title }}](wiki/{{ page.url }})
+  - [{{ page.title }}](wiki{{ page.url }})
 {% endfor %}
 
 ## Game Specific Wikis
