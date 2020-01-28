@@ -10,7 +10,7 @@ The Medical Corps is a staff office in the 29th ID. Its primary purpose is to as
 
 Any member of the unit may request technical support from this office at any time by making a proper post in the medical office board. Medical technicians will make contact shortly and work to resolves the issue as quickly as possible.
 
-##Medical Corps Assignments
+## Medical Corps Assignments
 
 Chief of Medical Corps - Ensures the smooth running of the entire office as well as coordinating efforts with other offices when needed, particularly Engineer Corps.
 
