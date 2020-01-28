@@ -2,8 +2,8 @@
 title: Medical Corps
 permalink: /Medical_Corps
 layout: page
-author: JHill
-date: 2016-08-16T06:52:54Z
+author: Conway
+date: 2020-01-28T06:52:54Z
 category: 
 ---
 The Medical Corps is a staff office in the 29th ID. Its primary purpose is to assist members of the unit in solving technical problems relating to their computer and unit-relevant software so that all members can continue to participate in drills and events. Software support includes Rising Storm 2, Squad and Arma 3 as well as Teamspeak 3. Medical Corps can also help with more generic software issues such as with webs browsers and streaming software. Medical Corps can also give advice on topics such as computer part selection, PC setup and other computer-related topics that are not necessarily technical problems that interfere. Finally, Medical Corps is often responsible for disseminating solutions for both recently occurring and common problems.
