@@ -44,7 +44,7 @@ prevent them from making common mistakes.
 
 {% assign fm21_100 = site.pages | where: "category", "FM 21-100" %}
 {% for page in fm21_100 %}
-  - [{{ page.title }}]({{ page.url }})
+  - [{{ page.title }}]({{ page.url | relative_url }})
 {% endfor %}
 
 ## Policy Handbook
@@ -57,7 +57,7 @@ and understand the policies you are expected to follow.
 
 {% assign policy = site.pages | where: "category", "Policy" %}
 {% for page in policy %}
-  - [{{ page.title }}]({{ page.url }})
+  - [{{ page.title }}]({{ page.url | relative_url }})
 {% endfor %}
 
 ## Game Specific Wikis
