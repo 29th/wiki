@@ -2,20 +2,37 @@
 title: Medical Corps
 permalink: /Medical_Corps
 layout: page
-author: Conway
-date: 2020-01-28T06:52:54Z
+author: JHill
+date: 2016-08-16T06:52:54Z
 category: 
 ---
-The Medical Corps is a staff office in the 29th ID. Its primary purpose is to assist members of the unit in solving technical problems relating to their computer and unit-relevant software so that all members can continue to participate in drills and events. Software support includes Rising Storm 2, Squad and Arma 3 as well as Teamspeak 3. Medical Corps can also help with more generic software issues such as with webs browsers and streaming software. Medical Corps can also give advice on topics such as computer part selection, PC setup and other computer-related topics that are not necessarily technical problems that interfere. Finally, Medical Corps is often responsible for disseminating solutions for both recently occurring and common problems.
+The Medical Corps is a Staff Office within [S-4
+Logistics](S-4_Logistics "wikilink") that is responsible for providing
+comprehensible help for 29th members with any technical issues they may
+have. The corps consists of several technicians, and clerks, who's main
+functions are:
 
-Any member of the unit may request technical support from this office at any time by making a proper post in the medical office board. Medical technicians will make contact shortly and work to resolves the issue as quickly as possible.
+  - Assist with any technical issues the 29th members may have.
+  - Suggest methods in which the members of the 29th can get their
+    computers to work better with the games the 29th inhabits.
+  - Creating general guides for issues which are common.
 
-## Medical Corps Assignments
+## Posting an issue, and contacting technicians
 
-Chief of Medical Corps - Ensures the smooth running of the entire office as well as coordinating efforts with other offices when needed, particularly Engineer Corps.
+Resolving an issue can typically be done by posting [this
+template](http://forums.29th.org/categories/medical-office) in the
+relevant forum thread (browser issue, in-game issues, etc.)
 
-Medical Clerk - Responsible for keeping the Medical Board and teamspeak channel up to date, as well as adding entries the medical databases.
+Otherwise, technicians can be contacted either by PM or by finding them
+on Steam. This can be done by viewing the [Medical Corps Staff
+List](http://personnel.29th.org/#units/Med) and messaging the technician
+or by [finding their Steam Profile](Find_a_Steam_Profile "wikilink").
 
-Senior Medical Technician - Supervises technical support as well gives direct advice and assistance to medical technicians for more stubborn problems. In the event that there is a lack of technicians for a particular area or something that is beyond the expertise of the technicians below him, the Senior Med-Tech will handle these technical issues himself.
+### Useful Links
 
-Medical Technician - Answers technical support requests in his specific field, usually a specific game the unit is currently deployed in. Can also weigh on other support requests relating to other software.
+  - [Medical Corps
+    Forum](http://forums.29th.org/categories/medical-office), which has
+    guides on most things. Please read through these guides before you
+    post an issue, as there may already be a guide for you.
+  - [Medical Corps Staff List](http://personnel.29th.org/#units/Med)
+
