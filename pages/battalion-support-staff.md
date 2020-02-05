@@ -25,5 +25,3 @@ It currently consists of four groups, respectively (S-1) Personnel,
     Staff](Get_a_Job_in_the_Unit "wikilink")
   - [Overall Batt. Support Staff Personnel
     List](http://personnel.29th.org/#units/Staff)
-
-testing **this** out
