@@ -1,6 +1,6 @@
 ---
 title: Need to Miss Drills?
-permalink: /Need_to_Miss_Drills?
+permalink: /Need_to_Miss_Drills
 layout: page
 author: Tuomainen
 date: 2015-01-13T01:36:15Z
